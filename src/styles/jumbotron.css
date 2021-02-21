@@ -2,5 +2,11 @@
     height: 200px;
     background-color: lightgray;
     padding-top: 30px;
+    
+}
 
+h1 {
+    font-family: Monoton;
+    color: black;
+    word-spacing: 30px;
 }
