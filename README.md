@@ -16,22 +16,25 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 ## Screen Shots:
 
+<img width="1536" alt="Screen Shot 2021-02-20 at 9 29 19 PM" src="https://user-images.githubusercontent.com/68761490/108616570-46e28780-73c3-11eb-972f-8a0edc304b16.png">
 
 
 ## BuiltWith:
 
-* 
+* Javascript
+* HTML
+* CSS
+* Bootstrap
+* React.js
 
 ## Installation:
 
+`git clone URL`
 
+`npm start`
 
-## Usage: 
-
-
-
-
-## Npm:
+## Deployed App:
+* [Link](https://employee-directory-29.herokuapp.com/)
 
 
 
